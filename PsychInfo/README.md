@@ -1,8 +1,9 @@
-PsychInfo
+# PsychInfo
 
 ## Progress
 - [x] execute search in database
 - [x] limit search within database
+- [ ] download results
 - [x] duplicate file for filtering
 - [ ] create filters
 - [ ] screen titles
@@ -24,6 +25,8 @@ PsychInfo
 
 ## Search strategy
 
+#### Search Terms
+
 "augmented reality".ti,ab.
 "mixed reality".ti,ab.
 "virtual reality".ti,ab.
@@ -39,6 +42,7 @@ computer simulation/
 
 ((transfer* or general*) adj5 (skill* or learn* or train* or adapt* or acqui* or action or motor or visuomotor or sensorimotor or interaction or memory)).ti,ab.
 
+### Exlcusion Criteria
 
 #### Limit to
 - human and english language and abstracts and non disordered populations
