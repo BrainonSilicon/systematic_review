@@ -21,7 +21,15 @@ Inside each Database's folder is:
 - a file where the filters have been applied to
 - a file containing the counts of the papers returned from each search term
 
-// TODO create and add an image showing the layout of the folders
+### Note:
+IEEE specific
+- the IEEE database allows searches to be constrained by topic.
+- it was noted on 28/3/21 that constraining search 'action_t_vr' by topics missed paper [this key paper][20b28581]
+- I have flagged this paper in EndNote locker to be added in during "manual search" stage of the systematic review.
+- Due to the nature of how exclusion criteria is applied, papers can slip through.
+- At this time there has been no justification for not using the inbuilt 'exclusion by topic' feature of IEEE.
+
+  [20b28581]: https://doi.org/10.1109/ROMAN.2005.1513829 "Augmented reality for skill transfer in assembly task"
 
 
 ## License

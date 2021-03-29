@@ -4,9 +4,10 @@
 ## Progress
 - [x] execute search in database
 - [x] limit search within database
-- [ ] download results
-- [ ] duplicate file for filtering
+- [x] download results
+- [x] duplicate file for filtering
 - [ ] create filters
+- [ ] update papercounts
 - [ ] screen titles
 - [ ] screen abstracts
 - [ ] sort filtered results
@@ -16,7 +17,7 @@
 
 | Search   |     Results   |
 |----------|:-------------:|
-| search results | 7,182 results |
+| Search results | 7,182 results |
 | Exclusion terms applied | 2,203 results |
 
 

@@ -1,0 +1,66 @@
+# IEEE
+
+## Progress
+- [ ] execute search in database
+- [ ] limit search within database
+- [ ] download results
+- [ ] duplicate file for filtering
+- [ ] create filters
+- [ ] update papercounts
+- [ ] screen titles
+- [ ] screen abstracts
+- [ ] sort filtered results
+
+
+## Results
+
+| Search   |     Results   |
+|----------|:-------------:|
+| vr terms | 1,100,815 |
+| transfer | 49,090 |
+| general*  | 88,519 |
+| vr, transfer, and learning terms |  |
+| limit to conferences, journals, early access articles |  |
+| duplicates removed  |   |
+| titles screened |  |
+| abstracts screened |  |
+
+## Search strategy
+Search VR terms in Advanced Search, then 'within results' for each additional term
+
+### Search Terms
+1. { Augmented reality, Mixed reality, Virtual reality, virtual environment, immersive reality, immersive environment, simulat*, screen, Head mounted display, HMD, VR }
+2. { Generali* , Transfer }
+3. { skill*, learn*,  train*, adapt*, acquisition, action, motor, visuomotor, sensorimotor,  interaction, memory }
+
+#### Boolean Example
+(1) VR terms
+("All Metadata":"augmented reality") OR ("All Metadata":"mixed reality") OR ("All Metadata":"virtual reality") OR ("All Metadata":"immersive reality") OR ("All Metadata":"virtual environment") OR ("All Metadata":"immersive environment") OR ("All Metadata":screen) OR ("All Metadata":simulat*) OR ("All Metadata":"head mounted display") OR ("All Metadata":HMD) OR ("All Metadata":VR)
+
+(2) VR + transfer
+("All Metadata":"augmented reality") OR ("All Metadata":"mixed reality") OR ("All Metadata":"virtual reality") OR ("All Metadata":"immersive reality") OR ("All Metadata":"virtual environment") OR ("All Metadata":"immersive environment") OR ("All Metadata":screen) OR ("All Metadata":simulat*) OR ("All Metadata":"head mounted display") OR ("All Metadata":HMD) OR ("All Metadata":VR)transfer
+
+(3) VR + transfer + skill
+("All Metadata":"augmented reality") OR ("All Metadata":"mixed reality") OR ("All Metadata":"virtual reality") OR ("All Metadata":"immersive reality") OR ("All Metadata":"virtual environment") OR ("All Metadata":"immersive environment") OR ("All Metadata":screen) OR ("All Metadata":simulat*) OR ("All Metadata":"head mounted display") OR ("All Metadata":HMD) OR ("All Metadata":VR)transferskill*
+
+
+## Exclusion Criteria
+
+#### Limit To
+Conferences, Journals, Early Access Articles
+
+
+#### Exclusion Terms
+Stage 1)
+Select exclusion/inclusion topics within each search.
+See [exclusion_topics_counts](exclusion_topics_counts.csv) for details.
+
+
+### Note:
+- the IEEE database allows searches to be constrained by topic.
+- it was noted on 28/3/21 that constraining search 'action_t_vr' by topics missed paper [this key paper][20b28581]
+- I have flagged this paper in EndNote locker to be added in during "manual search" stage of the systematic review.
+- Due to the nature of how exclusion criteria is applied, papers can slip through.
+- At this time, advice is to use the exclusion abilities within a database before manually screening and there has bee no justification for **not** using the inbuilt 'exclusion by topic' feature of IEEE.
+
+  [20b28581]: https://doi.org/10.1109/ROMAN.2005.1513829 "Augmented reality for skill transfer in assembly task"

@@ -3,9 +3,10 @@
 ## Progress
 - [x] execute search in database
 - [x] limit search within database
-- [ ] download results
+- [x] download results
 - [x] duplicate file for filtering
 - [ ] create filters
+- [ ] update papercounts
 - [ ] screen titles
 - [ ] screen abstracts
 - [ ] sort filtered results
@@ -15,9 +16,9 @@
 
 | Search   |     Results   |
 |----------|:-------------:|
-| vr terms | 69802 |
-| transfer and learning terms | 47449 |
-| vr, transfer, and learning terms | 1273  |
+| vr terms | 69,802 |
+| transfer and learning terms | 47,449 |
+| vr, transfer, and learning terms | 1,273  |
 | human and english language and abstracts and non disordered populations | 915 |
 | titles screened |  |
 | abstracts screened |  |
