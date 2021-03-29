@@ -28,31 +28,103 @@ iterative methods (56),E,,augmented reality (44),I,,digital simulation (90),I
 Total After Exclusion Topics Appled ,348,,Total After Exclusion Topics Appled ,320,,Total After Exclusion Topics Appled ,90
 ,,,,,,,
 ,,,,,,,
-VR terms + transfer + aqui*,Included/Excluded ,,VR terms + transfer + action,Included/Excluded ,,,
+VR terms + transfer + aqui*,Included/Excluded ,,VR terms + transfer + action,Included/Excluded ,,VR terms + transfer + motor,Included/Excluded 
 ,,,,,,,
-data acquisition (150),E,,learning (artificial intelligence) (97),E,,,
-medical image processing (83),E,,control system synthesis (60),E,,,
-optical transfer function (73),E,,transfer functions (48),E,,,
-learning (artificial intelligence) (72),E,,mobile robots (36),E,,,
-radiative transfer (62),E,,feedback (35),I,,,
-transfer functions (59),E,,closed loop systems (31),E,,,
-remote sensing (57),I,,neural nets (30),E,,,
-image reconstruction (53),E,,neurophysiology (28),I,,,
-image resolution (45),E,,power grids (24),E,,,
-biomedical ultrasonics (38),E,,nonlinear control systems (22),E,,,
-Monte Carlo methods (36),E,,optimisation (21),E,,,
-neural nets (34),E,,power generation control (21),E,,,
-finite element analysis (33),E,,stability (21),E,,,
-phantoms (33),E,,DC-DC power convertors (20),E,,,
-virtual reality (33),I,,control engineering computing (20),E,,,
-positron emission tomography (31),E,,robot vision (20),E,,,
-digital simulation (29),I,,feedforward (19),E,,,
-heat transfer (29),E,,three-term control (19),E,,,
-remote sensing by radar (29),E,,predictive control (18),E,,,
-optimisation (28),E,,robust control (18),E,,,
-synthetic aperture radar (28),E,,finite element analysis (17),E,,,
-wireless sensor networks (28),E,,virtual reality (17),I,,,
-control engineering computing (27),E,,bioelectric potentials (16),E,,,
-inductive power transmission (26),E,,numerical analysis (16),E,,,
-geophysical techniques (24),E,,physiological models (16),I,,,
-Total After Exclusion Topics Appled ,118,,Total After Exclusion Topics Appled ,88,,,
+data acquisition (150),E,,learning (artificial intelligence) (97),E,,neurophysiology (6),I
+medical image processing (83),E,,control system synthesis (60),E,,learning (artificial intelligence) (4),I
+optical transfer function (73),E,,transfer functions (48),E,,brain-computer interfaces (3),I
+learning (artificial intelligence) (72),E,,mobile robots (36),E,,medical robotics (3),I
+radiative transfer (62),E,,feedback (35),I,,mobile robots (3),I
+transfer functions (59),E,,closed loop systems (31),E,,robot vision (3),I
+remote sensing (57),I,,neural nets (30),E,,virtual reality (3),I
+image reconstruction (53),E,,neurophysiology (28),I,,biomechanics (2),I
+image resolution (45),E,,power grids (24),E,,electroencephalography (2),I
+biomedical ultrasonics (38),E,,nonlinear control systems (22),E,,entropy (2),I
+Monte Carlo methods (36),E,,optimisation (21),E,,haptic interfaces (2),I
+neural nets (34),E,,power generation control (21),E,,human-robot interaction (2),I
+finite element analysis (33),E,,stability (21),E,,humanoid robots (2),I
+phantoms (33),E,,DC-DC power convertors (20),E,,intelligent robots (2),I
+virtual reality (33),I,,control engineering computing (20),E,,medical signal processing (2),I
+positron emission tomography (31),E,,robot vision (20),E,,physiological models (2),I
+digital simulation (29),I,,feedforward (19),E,,Monte Carlo methods (1),I
+heat transfer (29),E,,three-term control (19),E,,assisted living (1),I
+remote sensing by radar (29),E,,predictive control (18),E,,auditory evoked potentials (1),I
+optimisation (28),E,,robust control (18),E,,augmented reality (1),I
+synthetic aperture radar (28),E,,finite element analysis (17),E,,calibration (1),I
+wireless sensor networks (28),E,,virtual reality (17),I,,cognitive systems (1),I
+control engineering computing (27),E,,bioelectric potentials (16),E,,control engineering computing (1),I
+inductive power transmission (26),E,,numerical analysis (16),E,,ear (1),I
+geophysical techniques (24),E,,physiological models (16),I,,electromyography (1),I
+Total After Exclusion Topics Appled ,118,,Total After Exclusion Topics Appled ,88,,Total After Exclusion Topics Appled ,17
+,,,,,,,
+VR terms + transfer + visuomotor,Included/Excluded ,,VR terms + transfer + sensorimotor,Included/Excluded ,,VR terms + transfer + interaction,Included/Excluded 
+,,,,,,,
+learning (artificial intelligence) (4),I,,neurophysiology (6),I,,transfer functions (128),E
+control engineering computing (3),I,,learning (artificial intelligence) (4),I,,learning (artificial intelligence) (80),E
+manipulators (2),I,,brain-computer interfaces (3),I,,control system synthesis (74),E
+neural nets (2),I,,medical robotics (3),I,,heat transfer (71),E
+neurophysiology (2),I,,mobile robots (3),I,,power grids (61),E
+adaptive control (1),I,,robot vision (3),I,,digital simulation (58),E
+biocontrol (1),I,,virtual reality (3),I,,plasma simulation (54),E
+calibration (1),I,,biomechanics (2),I,,Monte Carlo methods (53),E
+computer based training (1),I,,electroencephalography (2),I,,mobile robots (53),E
+computer vision (1),I,,entropy (2),I,,radiative transfer (52),E
+feedback (1),I,,haptic interfaces (2),I,,numerical analysis (48),E
+feedforward (1),I,,human-robot interaction (2),I,,finite element analysis (46),E
+gradient methods (1),I,,humanoid robots (2),I,,power system stability (45),E
+haptic interfaces (1),I,,intelligent robots (2),I,,optimisation (43),E
+humanoid robots (1),I,,medical signal processing (2),I,,feedback (42),E
+image coding (1),I,,physiological models (2),I,,computational fluid dynamics (41),E
+inverse problems (1),I,,Monte Carlo methods (1),I,,data visualisation (41),E
+mechanoception (1),I,,assisted living (1),I,,,
+medical computing (1),I,,auditory evoked potentials (1),I,,Included Topics:,
+medical robotics (1),I,,augmented reality (1),I,,virtual reality human computer interaction human-robot interaction haptic interfaces user interfaces augmented reality computer aided instructioninteractive systemsbiomedical educationeducational courses computer science education educational institutions engineering education electronic engineering education further education continuing education physics education power engineering education learning systems distance learning mobile learning learning by example,
+mobile robots (1),I,,calibration (1),I,,,
+motion control (1),I,,cognitive systems (1),I,,Total After Exclusion Topics Appled ,370
+muscle (1),I,,control engineering computing (1),I,,,
+nonlinear control systems (1),I,,ear (1),I,,,
+nonlinear dynamical systems (1),I,,electromyography (1),I,,,
+Total After Exclusion Topics Appled ,8,,Total After Exclusion Topics Appled ,17,,,
+,,,,,,,
+VR terms + transfer + interaction,Included/Excluded ,,,,,,
+,,,,,,,
+transfer functions (128),E,,,,,,
+learning (artificial intelligence) (80),E,,,,,,
+control system synthesis (74),E,,,,,,
+heat transfer (71),E,,,,,,
+power grids (61),E,,,,,,
+digital simulation (58),E,,,,,,
+plasma simulation (54),E,,,,,,
+Monte Carlo methods (53),E,,,,,,
+mobile robots (53),E,,,,,,
+radiative transfer (52),E,,,,,,
+numerical analysis (48),E,,,,,,
+finite element analysis (46),E,,,,,,
+power system stability (45),E,,,,,,
+optimisation (43),E,,,,,,
+feedback (42),E,,,,,,
+computational fluid dynamics (41),E,,,,,,
+data visualisation (41),E,,,,,,
+,,,,,,,
+Included Topics:,,,,,,,
+virtual reality,I,,,,,,
+augmented reality,I,,,,,,
+computer games,I,,,,,,
+serious games,I,,,,,,
+learning systems ,I,,,,,,
+CS education,I,,,,,,
+educational courses,I,,,,,,
+educational computing,I,,,,,,
+educational institutions,I,,,,,,
+EE education,I,,,,,,
+engineering education,I,,,,,,
+further education,I,,,,,,
+computer aided instruction,I,,,,,,
+computer interfaces,I,,,,,,
+human computer interaction,I,,,,,,
+computer based training,I,,,,,,
+human factors,I,,,,,,
+haptic interfaces,I,,,,,,
+EE education,I,,,,,,
+,,,,,,,
+Total After Exclusion Topics Appled ,42,,,,,,
