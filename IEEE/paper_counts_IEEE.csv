@@ -1,35 +1,34 @@
-﻿VR Terms (boolean) ,Results ,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,Transfer Terms,,,,,,,
-Learning Terms ,transfer,generali*,,,,,,
-skill*,332,,,,,,,
-learn*,"2,308",,,,,,,
-train*,"1,919",,,,,,,
-adap*,"4,007",,,,,,,
-acqui*,"1,147",,,,,,,
-action,772,,,,,,,
-motor ,"1,550",,,,,,,
-sensorimotor,18,,,,,,,
-visuomotor,8,,,,,,,
-interaction,"2,041",,,,,,,
-memory,"1,896",,,,,,,
-,,,,,,,,
-,,,,,,,,
-Limit To:,,,,,,,,
-"Conferences, Journals, Early Access Articles",,,,,,,,
-,,,,,,,,
-,Transfer Terms,,,,,,,
-Learning Terms ,transfer,generali*,,,,,,
-skill*,322,,,,,,,
-learn*,"2,272",,,,,,,
-train*,"1, 878",,,,,,,
-adap*,"3,978",,,,,,,
-acqui*,"1,134",,,,,,,
-action,748,,,,,,,
-motor ,"1,537",,,,,,,
-sensorimotor,17,,,,,,,
-visuomotor,8,,,,,,,
-interaction,"2,012",,,,,,,
-memory,"1,873",,,,,,,
-,,,,,,,,
+﻿VR Terms (boolean) ,Results ,
+,,
+,,
+,Transfer Terms,
+Learning Terms ,transfer,general*
+skill*,332,441
+learn*,"2,308","6,629"
+train*,"1,919","4,927"
+adap*,"4,007","9,675"
+acqui*,"1,147","2,158"
+action,772,"1,716"
+motor ,"1,550","2,948"
+sensorimotor,18,45
+visuomotor,8,14
+interaction,"2,041","4,244"
+memory,"1,896","2,663"
+,,
+,,
+Limit To:,,
+"Conferences, Journals, Early Access Articles",,
+,,
+,Transfer Terms,
+Learning Terms ,transfer,general*
+skill*,322,429
+learn*,"2,272","6,546"
+train*,"1,878","4,881"
+adap*,"3,978","9,587"
+acqui*,"1,134","2,135"
+action,748,"1,700"
+motor ,"1,537","2,910"
+sensorimotor,17,42
+visuomotor,8,14
+interaction,"2,012","4,179"
+memory,"1,873","2,611"

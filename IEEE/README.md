@@ -1,9 +1,9 @@
 # IEEE
 
 ## Progress
-- [ ] execute search in database
-- [ ] limit search within database
-- [ ] download results
+- [x] execute search in database
+- [x] limit search within database
+- [x] download results
 - [ ] duplicate file for filtering
 - [ ] create filters
 - [ ] update papercounts
@@ -19,8 +19,8 @@
 | vr terms | 1,100,815 |
 | transfer | 49,090 |
 | general*  | 88,519 |
-| vr, transfer, and learning terms |  |
-| limit to conferences, journals, early access articles |  |
+| limit to conferences, journals, early access articles | 50,813 |
+| topic limits applied |  |
 | duplicates removed  |   |
 | titles screened |  |
 | abstracts screened |  |

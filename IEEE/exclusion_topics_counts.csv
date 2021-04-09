@@ -84,6 +84,7 @@ motion control (1),I,,cognitive systems (1),I,,Total After Exclusion Topics Appl
 muscle (1),I,,control engineering computing (1),I,,,
 nonlinear control systems (1),I,,ear (1),I,,,
 nonlinear dynamical systems (1),I,,electromyography (1),I,,,
+,,,,,,,
 Total After Exclusion Topics Appled ,8,,Total After Exclusion Topics Appled ,17,,,
 ,,,,,,,
 VR terms + transfer + interaction,Included/Excluded ,,,,,,
@@ -128,3 +129,83 @@ haptic interfaces,I,,,,,,
 EE education,I,,,,,,
 ,,,,,,,
 Total After Exclusion Topics Appled ,42,,,,,,
+,,,,,,,
+VR terms + general* + skill*,Included/Excluded ,,VR terms + general* + learn*,Included/Excluded ,,VR terms + general* + train*,Included/Excluded 
+,,,,,,,
+learning (artificial intelligence) (71),I,,"learning (artificial intelligence) (2,979)",E,,"learning (artificial intelligence) (1,347)",E
+virtual reality (67),I,,neural nets (950),E,,neural nets (866),E
+computer aided instruction (62),I,,optimisation (388),E,,support vector machines (308),E
+computer based training (38),I,,support vector machines (348),E,,pattern classification (250),E
+teaching (35),I,,neurocontrollers (331),E,,regression analysis (250),E
+educational courses (30),I,,computer aided instruction (315),I,,backpropagation (245),E
+medical computing (30),I,,pattern classification (315),E,,optimisation (242),E
+augmented reality (25),I,,learning systems (311),I,,feature extraction (237),E
+surgery (25),I,,regression analysis (303),E,,virtual reality (231),I
+digital simulation (23),I,,mobile robots (302),I,,neurocontrollers (207),E
+humanoid robots (23),I,,generalisation (artificial intelligence) (295),E,,generalisation (artificial intelligence) (204),E
+mobile robots (23),I,,feature extraction (293),E,,feedforward neural nets (198),E
+computer games (22),I,,adaptive control (264),I,,image classification (178),E
+haptic interfaces (22),I,,virtual reality (234),I,,power engineering computing (165),E
+computer science education (18),I,,nonlinear control systems (233),E,,channel estimation (155),E
+manipulators (18),I,,feedforward neural nets (231),E,,convolutional neural nets (154),E
+control engineering computing (17),I,,iterative methods (223),E,,medical image processing (154),E
+medical robotics (17),I,,image classification (207),E,,mobile robots (145),E
+engineering education (16),I,,power engineering computing (207),E,,radial basis function networks (141),E
+motion control (16),I,,convolutional neural nets (189),E,,genetic algorithms (133),E
+neural nets (16),I,,backpropagation (185),E,,digital simulation (132),E
+further education (15),I,,probability (185),E,,computer based training (131),I
+neurocontrollers (15),I,,recurrent neural nets (183),E,,MIMO communication (127),E
+neurophysiology (15),I,,medical image processing (182),E,,recurrent neural nets (127),E
+,,,telecommunication computing (182),I,,multilayer perceptrons (125),E
+Total After Exclusion Topics Appled ,429,,human computer interaction (58),I,,"Add: human computer interaction, human robot interaction, human factors, haptic interfaces, education, computer games",
+,,,,,,,
+,,,Total After Exclusion Topics Appled ,1166,,Total After Exclusion Topics Appled ,464
+,,,,,,,
+VR terms + general* + adapt*,Included/Excluded ,,VR terms + general* + acqui*,Included/Excluded ,,,
+,,,,,,,
+"adaptive control (1,391)",E,,medical image processing (234),E,,,
+nonlinear control systems (662),E,,data acquisition (207),E,,,
+control system synthesis (657),E,,image reconstruction (179),E,,,
+learning (artificial intelligence) (613),E,,learning (artificial intelligence) (149),E,,,
+adaptive filters (526),E,,biomedical MRI (93),E,,,
+optimisation (437),E,,synthetic aperture radar (91),E,,,
+neurocontrollers (407),E,,Monte Carlo methods (81),E,,,
+stability (387),E,,phantoms (74),E,,,
+array signal processing (382),E,,optimisation (72),E,,,
+feedback (375),E,,image resolution (69),E,,,
+closed loop systems (356),E,,neural nets (67),E,,,
+Lyapunov methods (354),E,,positron emission tomography (66),E,,,
+least mean squares methods (331),E,,computerised tomography (62),E,,,
+neural nets (323),E,,feature extraction (60),E,,,
+robust control (311),E,,iterative methods (58),E,,,
+fuzzy control (308),E,,virtual reality (58),I,,,
+iterative methods (284),E,,mobile robots (57),I,,,
+computational complexity (283),E,,knowledge acquisition (54),I,,,
+uncertain systems (280),E,,radar imaging (52),E,,,
+interference suppression (277),E,,remote sensing by radar (52),E,,,
+predictive control (267),E,,digital simulation (51),E,,,
+probability (265),E,,maximum likelihood estimation (51),E,,,
+adaptive signal processing (255),E,,signal detection (51),E,,,
+mobile robots (253),E,,biomedical ultrasonics (50),I,,,
+least squares approximations (250),E,,brain (48),I,,,
+human-robot interaction(25),I,,human-robot interaction(10),I,,,
+human computer interaction(17),I,,human computer interaction(5),I,,,
+human factors(15),I,,human factors(4),I,,,
+computer aided instruction (2) ,I,,biomedical education (1),I,,,
+educational courses(7),I,,haptic interfaces(1),I,,,
+educational institutions(7),I,,human computer interaction(5),I,,,
+further education(5),I,,computer aided instruction(4),I,,,
+engineering education(4),I,,computer based training(3),I,,,
+biomedical education(3),I,,computer games(1),I,,,
+computer science education(2),I,,,,,,
+electrical engineering education(2),I,,Total After Exclusion Topics Appled ,349,,,
+power engineering education(2),I,,,,,,
+control engineering education(1),I,,,,,,
+education(1),I,,,,,,
+electronic engineering education(1),I,,,,,,
+information science education(1),I,,,,,,
+virtual reality(21),I,,,,,,
+haptic interfaces(12),I,,,,,,
+augmented reality(9),I,,,,,,
+,,,,,,,
+Total After Exclusion Topics Appled ,235,,,,,,
