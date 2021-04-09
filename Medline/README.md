@@ -1,4 +1,4 @@
-# PsychInfo
+# Medline
 
 ## Progress
 - [x] execute search in database
@@ -16,10 +16,10 @@
 
 | Search   |     Results   |
 |----------|:-------------:|
-| vr terms | 69,802 |
-| transfer and learning terms | 47,449 |
-| vr, transfer, and learning terms | 1,273  |
-| human and english language and abstracts and non disordered populations | 915 |
+| vr terms | 499,348 |
+| transfer and learning terms | 79,484 |
+| vr, transfer, and learning terms | 5,023 |
+| human and english language and abstracts and full text | 339 |
 | titles screened |  |
 | abstracts screened |  |
 
@@ -46,7 +46,8 @@ computer simulation/
 ### Exclusion Criteria
 
 #### Limit to
-- human and english language and abstracts and non disordered populations
+- human and english language and abstracts and full text
 
 
-![](Images/psychinfo_search_strategy.png)
+#### Search Results
+![Medline Results](Medline/medline_search_results.png)
