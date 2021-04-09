@@ -22,13 +22,20 @@
 | limit (3) applied | 55,557 |
 | limit (4) applied | 25,006 |
 | limits (5-7) applied | 2,632 |
-| duplicates removed |   |
+| manual search: Specific Term Search Results  | 1,877  |
+| combined search 6 with manual search | 4,509 |
+| duplicates removed | 3,718 | 
+| titles screened   |   |
 | abstracts screened |  |
+| final included papers   |   |
 
 ## Search strategy
 - (ANY{VR terms}) AND (ANY{transfer terms}) AND (ANY{learning terms})
 - NOT ("neural network" OR "deep learning"  OR  "molecular")
 - Limits {1-7}
+- Results downloaded
+- Specific Term Search Results applied
+- Additional Results downloaded
 
 ### Search Terms
 1. VR Terms: { Augmented reality, Mixed reality, Virtual reality, virtual environment, immersive reality, immersive environment, simulat*, screen, Head mounted display, HMD, VR }

@@ -4,7 +4,6 @@
 - [x] execute search in database
 - [x] limit search within database
 - [x] download results
-- [ ] duplicate file for filtering
 - [ ] create filters
 - [ ] update papercounts
 - [ ] screen titles
@@ -20,8 +19,8 @@
 | transfer | 49,090 |
 | general*  | 88,519 |
 | limit to conferences, journals, early access articles | 50,813 |
-| topic limits applied |  |
-| duplicates removed  |   |
+| topic limits applied | 6,239 |
+| duplicates removed  | 4,354 |
 | titles screened |  |
 | abstracts screened |  |
 
