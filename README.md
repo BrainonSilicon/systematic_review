@@ -8,20 +8,21 @@ The purpose of this repo is to use a version control approach for the newest ite
 
 ## File Organization
 
-This is the 'main folder' which contains info about the repo's contents and how to navigate it.
-Within the 'main folder' there is:
+This is the `main folder` which contains info about the repo's contents and how to navigate it.
+Within the `main folder` there is:
 - this README
-- a 'paper_count' file (which will inform the final PRISMA diagram) which is the number of papers returned from each Database, and the number of papers included based on the various steps of exclusion/inclusion
-- a 'Exclusion Criteria' folder
+- a `paper_count` file (which will inform the final PRISMA diagram) which is the number of papers returned from each Database, and the number of papers included based on the various steps of exclusion/inclusion
 - a folder for each of the Databases that are searched in this review
+- a `Papers` folder which contains the citation information for the identified papers
 
 Inside each Database's folder is:
 - a README containing information about the search strategy, the specifics of the database, images of the search results, and the status (how far through it I am)
-- a folder containing the raw csv files downloaded from the databases
-- a file where the filters have been applied to
-- a file containing the counts of the papers returned from each search term
+- a `Search Results` folder containing the raw csv (and backup excel) files downloaded from the databases
+- a `Search Strategy` folder which contains information about how a specific search was executed (and what results it brought)
+- a `Analysis` folder which contains the files used to assess, filter, and analyze the searches' results
 
-### Note:
+
+### Notes:
 IEEE specific
 - the IEEE database allows searches to be constrained by topic.
 - it was noted on 28/3/21 that constraining search 'action_t_vr' by topics missed paper [this key paper][20b28581]
