@@ -4,11 +4,10 @@
 - [x] execute search in database
 - [x] limit search within database
 - [x] download results
-- [ ] create filters
-- [ ] update papercounts
+- [x] create filters
+- [x] update papercounts
 - [ ] screen titles
 - [ ] screen abstracts
-- [ ] sort filtered results
 
 
 ## Results
@@ -21,12 +20,16 @@
 | limit to conferences, journals, early access articles | 50,813 |
 | topic limits applied | 6,239 |
 | duplicates removed  | 4,365 |
-| titles screened |  |
-| abstracts screened |  |
+| filters applied | 743 |
+| abstracts screened |   |
 
 
 ## Search strategy
 Search VR terms in Advanced Search, then 'within results' for each additional term
+Apply Topic Limits to Search Results
+Deduplicate
+Apply filters
+Screen Abstracts
 
 ### Search Terms
 1. { Augmented reality, Mixed reality, Virtual reality, virtual environment, immersive reality, immersive environment, simulat*, screen, Head mounted display, HMD, VR }
@@ -49,12 +52,14 @@ Search VR terms in Advanced Search, then 'within results' for each additional te
 #### Limit To
 Conferences, Journals, Early Access Articles
 
-
 #### Exclusion Terms
 Stage 1)
 Select exclusion/inclusion topics within each search.
 See [exclusion_topics_counts](exclusion_topics_counts.csv) for details.
 
+#### Filter Papers of Relevance
+The review specifically focuses on HMD based VR (which comes under different names). Papers are filtered with abstracts being searched for the following terms
+- "immersive","immersion","hmd","HMD","head mounted display","VR","rift","vive","virtual reality","headset"
 
 ### Note:
 - the IEEE database allows searches to be constrained by topic.

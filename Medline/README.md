@@ -20,6 +20,7 @@
 | transfer and learning terms | 79,484 |
 | vr, transfer, and learning terms | 5,023 |
 | human and english language and abstracts and full text | 339 |
+| Filter applied | 50 |
 | titles screened |  |
 | abstracts screened |  |
 

@@ -20,6 +20,7 @@
 | transfer and learning terms | 47,449 |
 | vr, transfer, and learning terms | 1,273  |
 | human and english language and abstracts and non disordered populations | 915 |
+| filter applied | 110 |
 | titles screened |  |
 | abstracts screened |  |
 
@@ -48,5 +49,7 @@ computer simulation/
 #### Limit to
 - human and english language and abstracts and non disordered populations
 
+#### Filter
+'=IF(<cell>="","",IF(SUMPRODUCT(--(NOT(ISERR(SEARCH({"immersive","immersion","hmd","HMD","head mounted display","VR","rift","vive","virtual reality","headset"},<cell>)))))>0,"Keep","Not relevant"))
 
 ![](Images/psychinfo_search_strategy.png)

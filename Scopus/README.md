@@ -4,9 +4,9 @@
 - [x] execute search in database
 - [x] limit search within database
 - [x] download results
-- [ ] duplicate file for filtering
-- [ ] create filters
-- [ ] update papercounts
+- [x] duplicate file for filtering
+- [x] create filters
+- [x] update papercounts
 - [ ] screen titles
 - [ ] screen abstracts
 - [ ] sort filtered results
@@ -24,7 +24,8 @@
 | limits (5-7) applied | 2,632 |
 | manual search: Specific Term Search Results  | 1,877  |
 | combined search 6 with manual search | 4,509 |
-| duplicates removed | 3994 unique values remain | 
+| duplicates removed | 3,994 |
+| filter applied | 991 |
 | titles screened   |   |
 | abstracts screened |  |
 | final included papers   |   |
@@ -35,7 +36,9 @@
 - Limits {1-7}
 - Results downloaded
 - Specific Term Search Results applied
-- Additional Results downloaded
+- Additional Results Downloaded
+- Filter applied
+- Titles and abstracts screened
 
 ### Search Terms
 1. VR Terms: { Augmented reality, Mixed reality, Virtual reality, virtual environment, immersive reality, immersive environment, simulat*, screen, Head mounted display, HMD, VR }
@@ -61,7 +64,7 @@
 
 
 ## Specific Term Search Results
-A "within results" specific term search was completed on Search 6 (limits (5-7) applied, results returned: 2,632). The specific terms and their returned results counts are below, and the returned results can be found in
+A "within results" specific term search was completed on Search 6 (limits (5-7) applied, results returned: 2,632). The specific terms and their returned results counts are below. 
 
 | Term     |     Results   |
 |----------|:-------------:|
@@ -72,3 +75,8 @@ A "within results" specific term search was completed on Search 6 (limits (5-7) 
 | augmented reality | 627 |
 | immersive| 254 |
 | immersion| 268 |
+
+
+#### Filter Papers of Relevance
+The review specifically focuses on HMD based VR (which comes under different names). Papers are filtered with abstracts being searched for the following terms
+- "immersive","immersion","hmd","HMD","head mounted display","VR","rift","vive","virtual reality","headset"

@@ -5,12 +5,12 @@
 - [x] execute search in database
 - [x] limit search within database
 - [x] download results
-- [x] duplicate file for filtering
-- [ ] create filters
-- [ ] update papercounts
+- [x] copy file for filtering
+- [x] deduplicate results
+- [x] create filters
+- [x] update papercounts
 - [ ] screen titles
 - [ ] screen abstracts
-- [ ] sort filtered results
 
 
 ## Results
@@ -19,10 +19,19 @@
 |----------|:-------------:|
 | Search results | 7,182 results |
 | Exclusion terms applied | 2,203 results |
+| Filter Applied | 136 results |
 
 
+Note: no duplicates found
 
 ## Search strategy
+Search Terms
+Limit to Source Type
+Apply Exclusion Terms
+Download Results
+Deduplicate
+Apply Filter
+Manually Screen Titles and Abstracts
 
 ### Search Terms
 { Augmented reality, Mixed reality, Virtual reality, virtual environment, immersive reality, immersive environment, simulat*, screen, Head mounted display, HMD }
@@ -39,3 +48,6 @@ NOT ("Wire Feeds" OR "Trade Journals" OR "Dissertations & Theses" OR "Magazines"
 
 #### Exclusion Terms
 NOT (algorithms AND mathematical models AND machine learning AND neural networks AND computational fluid dynamics AND optimization AND mathematical analysis AND radiative transfer AND fluid flow AND artificial neural networks AND finite element method AND molecular dynamics AND heat transfer AND proteins AND parameters AND turbulent flow AND energy transfer AND organic chemistry AND three dimensional models AND domains AND regression analysis AND artificial intelligence AND dependence AND energy dissipation AND evolution AND bayesian analysis AND accuracy AND economic models AND modelling AND statistical models AND time dependence AND transfer functions AND boundary conditions AND monte carlo simulation AND hydrodynamics AND mass transfer AND energy AND charge transfer AND approximation AND momentum transfer AND wireless networks AND atmospheric models AND galaxies AND quantum theory AND generalized linear models AND phase transitions AND data transfer (computers) AND dynamic tests AND star & galaxy formation AND fluid dynamics AND star formation AND monte carlo method AND genomes)
+
+#### Filter
+'=IF(<cell>="","",IF(SUMPRODUCT(--(NOT(ISERR(SEARCH({"immersive","immersion","hmd","HMD","head mounted display","VR","rift","vive","virtual reality","headset"},<cell>)))))>0,"Keep","Not relevant"))
