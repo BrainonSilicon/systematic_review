@@ -24,7 +24,7 @@
 | limits (5-7) applied | 2,632 |
 | manual search: Specific Term Search Results  | 1,877  |
 | combined search 6 with manual search | 4,509 |
-| duplicates removed | 3,718 | 
+| duplicates removed | 3994 unique values remain | 
 | titles screened   |   |
 | abstracts screened |  |
 | final included papers   |   |

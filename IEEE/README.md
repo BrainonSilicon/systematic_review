@@ -20,9 +20,10 @@
 | general*  | 88,519 |
 | limit to conferences, journals, early access articles | 50,813 |
 | topic limits applied | 6,239 |
-| duplicates removed  | 4,354 |
+| duplicates removed  | 4,365 |
 | titles screened |  |
 | abstracts screened |  |
+
 
 ## Search strategy
 Search VR terms in Advanced Search, then 'within results' for each additional term
