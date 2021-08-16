@@ -1,3 +1,15 @@
+---
+Revised draft based on feedback from RM on 16/08/2021
+
+**Main changes**
+- trying to double-down on a singular focus (transfer of learning) therefore spinning the 'studying remote research' as 'will location impact transfer'.
+- removed sections on covid-19
+- removed sections on open research
+- Discussion of maze vs an open sandbox
+- added in plans for pilot study
+- added in plans for variables study
+- removed Shadmehr paper (as it has failed during replication analyses).
+---
 
 ## Introduction
 > to explain the premise of the proposed phd project
