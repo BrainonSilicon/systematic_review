@@ -12,7 +12,8 @@ Since 1965 it has come a long way and is being used to do x, y, z (ie. dangerous
 
 Psychologists have been overjoyed at getting to study 'natural' behaviours (ie. do results gained in a lab actual reflect real world processes)
 
-Two questions are outstanding
+> state the core research question
+
 - Does it transfer
     - Without indication that tasks transfer, VR may not be an appropriate medium for training. This is of particular concern when we're using VR as a subtitute training environment for highly dangerous situations.  
 > Citations
