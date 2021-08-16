@@ -371,7 +371,7 @@ These sections address the "high level" methodology of the project and contains 
 
 ### Subjects
 
-Screeningscreening questionnaire to capture demographic information (age, sex, education level), previous experience with VR, gaming habits, and and previous exposure to maze game paradigms. Exclusion criteria for the study includes subjects who have self-reported risk of epilepsy, visual impairments, and who partook in recreational drug use at the time of testing.
+Screening screening questionnaire to capture demographic information (age, sex, education level), previous experience with VR, gaming habits, and and previous exposure to maze game paradigms. Exclusion criteria for the study includes subjects who have self-reported risk of epilepsy, visual impairments, and who partook in recreational drug use at the time of testing.
 
 A self-report questionaire (pre-experiment) will be administered to assess mental status and will contain  measures of restedness, sleep quality, alcohol and drug use.
 
@@ -466,7 +466,10 @@ JMBR.39.1.40-48 http://www.krigolsonteaching.com/uploads/4/3/8/4/43848243/jmbr_2
 
 Schedules depend on variables relating to the task (eg. complexity, difficulty, generalization potential), cognitive resources (e.g. working memory), study design (e.g. interference, spacing),  environment (e.g. sound pollution) and individual differences (eg. self efficacy, sleep, fatigue, expertise) (citation; citation; citation; citation)
 
-Shadmehr and Holcomb (1997) demonstrated that a single event can alter brain function for up to 6 hours, after which time the functional changes degrade and the brain functionality will return to baseline levels. It has been suggested that extinction after a novel motor learning task occurs between 48-72 hours (Kozlowski, James & Schallert, 1996), however ‘skill based’ learning can occur if tasks are repeated within a 5-day paradigm (Pascual-Leone et. al., 1995).
+~~Shadmehr and Holcomb (1997) demonstrated that a single event can alter brain function for up to 6 hours, after which time the functional changes degrade and the brain functionality will return to baseline levels.~~
+> this ^ study has infamously been unable to replicate
+
+It has been suggested that extinction after a novel motor learning task occurs between 48-72 hours (Kozlowski, James & Schallert, 1996), however ‘skill based’ learning can occur if tasks are repeated within a 5-day paradigm (Pascual-Leone et. al., 1995).
 
 
 The proposed schedule was informed by the review of laparoscopic surgery and dental training simulators due to their motor skill components being similarly matched in terms of degrees of freedom, ergonomic load (hand held while standing), multi-session, and in their use as an assessor for transfer of training.
