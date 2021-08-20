@@ -11,8 +11,7 @@ Sections remaining:
 ```
 
 
-
-# Introduction Kirstie Draft
+# Introduction 
 > This should lead the reader from what they might already be
 expected to know towards your particular subject. Make quite clear what your project is about. Be brief.
 
@@ -66,7 +65,7 @@ The enclosed transfer report details out a 5 stage project that is proposed to a
 > - [learning science](https://scite.ai/reports/learning-science-in-immersive-virtual-aXJZAp9)
 
 
-# Specific Aims Kirstie Draft 
+# Specific Aims  
 > to clearly state the research questions and project aims
 
 ### Intro section
@@ -156,10 +155,7 @@ Published VR experiments on sensorimotor skill learning have been conducted in m
 
 
 #### Aims:
-
-
-
-
+:warning: todo :warning: 
 
 
 ### **Question 3:** How long does transfer last for/impact training medium has on skill saliency
@@ -562,7 +558,7 @@ Questionnaires Post-experiment:
 - presence
 - interview
 
-# Hypotheses Kirstie Draft 
+# Hypotheses
 
 learning rate refers to the rate of skill acquisition 
 - relative changes in performance over time 
@@ -572,6 +568,8 @@ learning rate refers to the rate of skill acquisition
 to add: the relevant specific aims (by number) 
 - for each of the hypotheses 
 - and analyses. 
+- create the sections as per the research question (?) 
+
 ```
 :warning:
 
@@ -587,38 +585,9 @@ Graphical analysis of a learning curve (Ramsay, et al., 2001)
 
 ---
 
-### Intro section
-
 As a field we need to fill in the gaps in our understanding of this technology and its uses through rigourous scientific inquiry.
 
 ### **Question 1:** Transfer of Learning from VR to Natural
-
-### Pilot Study
-
-A pilot study will be conducted to assess
-    - how long it takes to learn (skills vary in learning timelines eg. single session, weeks, or years)
-    - learning plateaus (longitudinally based motor skill learning studies often report learning plateaus, ideally this study would like to see an effect ergo data in needed)
-        - if a plateau is present, it is possible to overcome those plateaus (and in what timeframe)
-    - effect size
-
-
-#### Pilot schedule
-```
-T T S \ M W F S \ T T S \ M W F
-```
-
-Every second day for 4 weeks
-- 13 sessions
-
-#### Proposed Analyses 
-To assess how long it takes to learn, regression analyses will be used across sessions with graphical analyses reporting the spread and median of each group. 
-
-Further graphical analyses using exponential functions will assess learning plateaus as well as a "model of fit" analyses where stepwise functions will be assessed (*** cite the paper that found that vr surgery best fit a stepwise learning curve). 
-
-Power analyses 
-- cohens-d to get effect size (since the alternative hypothesis is that there is learning) (?) 
-
-### Transfer of Learning
 
 Study 1 will address the effect training medium (VR or Natural) has on learning and investigate transfer of learning between mediums.
 
@@ -670,8 +639,6 @@ Proposed analyses
 
 Analyses Proposed: 
 
-
-
 Hypothesis 1.4: that the transfer between VR and Natural will be greater than the transfer from Natural to VR 
 
 H0: training medium will not effect task improvement 
@@ -680,7 +647,6 @@ H1: training medium will have an effect on task improvement
 Analyses Proposed: 
 
 A Welch t-test will be used to assess the variance between groups.
-
 
 
 ### **Question 2:** Impact of learning skills in remote VR
@@ -792,13 +758,11 @@ Every second day for 4 weeks
 - 13 sessions
 
 
-
 ### Study 1
 
 
 #### Group Assignment
 ![](https://i.imgur.com/z7NBgoh.png)
-
 
 #### Study 1 Design
 
@@ -912,16 +876,10 @@ Study 1 will address the effect training medium (VR or Natural) has on learning 
 Analyses: Regression analyses to fit a curve 
 - Graphical analysis of a learning curve (Ramsay, et al., 2001)
 
-
 Hypothesis 1.1: that VR is comparable to Natural to learn the task 
 
-H0: training medium will have an effect on test performance in the same medium
-
-H1: training medium will have no effect on task performance in the same medium
-
-
-I.e. the training medium will have an effect on your ability to learn the task 
-- There is no strong evidence for differences in learning in the literature (ie. Should be able to learn the same) 
+> I.e. the training medium will have an effect on your ability to learn the task 
+> - There is no strong evidence for differences in learning in the literature (ie. Should be able to learn the same) 
 
 > welch t-test only best when there is variance in the means
 > Levene's test will assume that the variance is equal (but is often under powered so will fail to reject the null that variances are equal) 
